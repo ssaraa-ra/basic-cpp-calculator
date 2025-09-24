@@ -1,4 +1,11 @@
-# C++ Calculator
+# C++ Projects Collection
 
-A simple console-based calculator written in C++. It allows the user to enter two numbers (integers or decimals), choose an operation (`+`, `-`, `*`, or `/`), and see the result printed in the terminal. The program also checks for division by zero to avoid errors.  
+This repository is a collection of C++ projects ranging from beginner to intermediate and advanced levels. The projects are mostly console-based and cover basic programming concepts, arithmetic operations, string manipulation, loops, conditionals, and more.  
 
+## Contributing
+
+Feel free to fork this repository and add your own C++ projects or improvements. Pull requests are welcome!
+
+## License
+
+This repository is open source and free to use for learning and personal projects.
